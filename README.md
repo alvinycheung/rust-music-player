@@ -2,6 +2,14 @@
 
 An immersive audio visualization experience built with Rust and the Nannou creative coding framework.
 
+## Demo
+
+![Demo Animation](./assets/demo.gif)
+
+<!-- For GitHub video player, use the URL below after pushing to GitHub:
+https://github.com/alvinycheung/rust-music-player/assets/YOUR_USER_ID/demo.mov
+-->
+
 ## Features
 
 - Real-time audio spectrum analysis using FFT
